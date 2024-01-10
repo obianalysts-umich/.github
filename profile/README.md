@@ -6,7 +6,7 @@ This github account is used to track all the analytic team's work. Most of the r
 
 ## Team Practice
 
-### Syntax and folder organziation
+### Syntax and folder organization
 
 To ensure we can understand each other's code and have better collaboration. Please follow the [The tidyverse style guide](https://style.tidyverse.org/index.html).
 
