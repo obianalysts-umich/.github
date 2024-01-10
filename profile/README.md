@@ -8,7 +8,7 @@ This github account is used to track all the analytic team's work. Most of the r
 
 ### Syntax and folder organziation
 
-To ensure we can understand each other's code and have better collaboration. Please fllow the [The tidyverse style guide](https://style.tidyverse.org/index.html).
+To ensure we can understand each other's code and have better collaboration. Please follow the [The tidyverse style guide](https://style.tidyverse.org/index.html).
 
 ### Repo Basics
 
