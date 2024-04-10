@@ -13,6 +13,7 @@ To ensure we can understand each other's code and have better collaboration. Ple
 ### Repo Basics
 
 Each repo should have
-1. one sentence About
-2. Readme: project information that can help your and the team understand the basics about your project and/or how to run your code
+- one sentence About
+- Readme: project information that can help your and the team understand the basics about your project and/or how to run your code
+  - Readme [template](https://github.com/obianalysts-umich/template_repo)
 
