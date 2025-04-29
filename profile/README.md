@@ -1,10 +1,10 @@
 ## Hi there!
 
-The Obstetrics Initiative (OBI) is a state-wide data-driven quality improvement project comprised of 75 Michigan maternity hospitals. To know more about us, please visit our awesome website at: https://www.obstetricsinitiative.org/
-
-This github account is used to track all the analytic team's work. Most of the repos are private.
+The Obstetrics Initiative (OBI) is a statewide Collaborative Quality Initiative transforming the experience and outcomes of childbirth care. With multidisciplinary teams at over 70 hospitals, we are changing the culture of healthcare, advancing equity, and improving outcomes for all after childbirth in Michigan.
 
 ## Team Practice
+
+This github account is used to track all the analytic team's work. Most of the repos are private.
 
 ### Syntax and folder organization
 
